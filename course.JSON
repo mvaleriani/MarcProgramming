@@ -1,0 +1,980 @@
+[
+
+    {
+        "name": "Section 2: JavaScript Fundamentals – Part 1",
+        "parts": [
+            {
+                "name": "18. Taking Decisions: if / else Statements",
+                "time": "13min"
+            },
+            {
+                "name": "19. Coding Challenge #2",
+                "time": "6min"
+            },
+            {
+                "name": "20. Type Conversion and Coercion",
+                "time": "17min"
+            },
+            // {
+            //     "name": "21. Truthy and Falsy Values",
+            //     "time": "10min"
+            // },
+            {
+                "name": "22. Equality Operators: == vs. ===",
+                "time": "16min"
+            },
+            {
+                "name": "23. Boolean Logic",
+                "time": "9min"
+            },
+            {
+                "name": "24. Logical Operators",
+                "time": "11min"
+            },
+            {
+                "name": "25. Coding Challenge #3",
+                "time": "15min"
+            },
+            {
+                "name": "26. The switch Statement",
+                "time": "13min"
+            },
+            {
+                "name": "27. Statements and Expressions",
+                "time": "6min"
+            },
+            // {
+            //     "name": "28. The Conditional (Ternary) Operator",
+            //     "time": "10min"
+            // },
+            {
+                "name": "29. Coding Challenge #4",
+                "time": "9min"
+            },
+            // {
+            //     "name": "30. JavaScript Releases: ES5, ES6+ and ESNext",
+            //     "time": "14min"
+            // }
+        ]
+    },
+    {
+        "name": "Section 3: JavaScript Fundamentals – Part 2",
+        "parts": [
+            {
+                "name": "31. Section Intro",
+                "time": "1min"
+            },
+            // {
+            //     "name": "32. Activating Strict Mode",
+            //     "time": "10min"
+            // },
+            {
+                "name": "33. Functions",
+                "time": "19min"
+            },
+            {
+                "name": "34. Function Declarations vs. Expressions",
+                "time": "11min"
+            },
+            {
+                "name": "35. Arrow Functions",
+                "time": "10min"
+            },
+            {
+                "name": "36. Functions Calling Other Functions",
+                "time": "10min"
+            },
+            {
+                "name": "37. Reviewing Functions",
+                "time": "16min"
+            },
+            {
+                "name": "38. Coding Challenge #1",
+                "time": "18min"
+            },
+            {
+                "name": "39. Introduction to Arrays",
+                "time": "22min"
+            },
+            {
+                "name": "40. Basic Array Operations (Methods)",
+                "time": "13min"
+            },
+            {
+                "name": "41. Coding Challenge #2",
+                "time": "10min"
+            },
+            {
+                "name": "42. Introduction to Objects",
+                "time": "6min"
+            },
+            {
+                "name": "43. Dot vs. Bracket Notation",
+                "time": "19min"
+            },
+            {
+                "name": "44. Object Methods",
+                "time": "23min"
+            },
+            {
+                "name": "45. Coding Challenge #3",
+                "time": "13min"
+            },
+            {
+                "name": "46. Iteration: The for Loop",
+                "time": "11min"
+            },
+            {
+                "name": "47. Looping Arrays, Breaking and Continuing",
+                "time": "22min"
+            },
+            {
+                "name": "48. Looping Backwards and Loops in Loops",
+                "time": "12min"
+            },
+            {
+                "name": "49. The while Loop",
+                "time": "12min"
+            },
+            {
+                "name": "50. Coding Challenge #4",
+                "time": "16min"
+            }
+        ]
+    },
+    {
+        "name": "Section 4: How to Navigate This Course",
+        "parts": [
+            {
+                "name": "51. Pathways and Section Roadmaps",
+                "time": "4min"
+            },
+            {
+                "name": "52. Course Pathways",
+                "time": "1min"
+            }
+        ]
+    },
+    {
+        "name": "Section 5: Developer Skills & Editor Setup",
+        "parts": [
+            {
+                "name": "53. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "54. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "55. Setting up Prettier and VS Code",
+                "time": "16min"
+            },
+            {
+                "name": "56. Installing Node.js and Setting Up a Dev Environment",
+                "time": "12min"
+            },
+            {
+                "name": "57. Learning How to Code",
+                "time": "18min"
+            },
+            {
+                "name": "58. How to Think Like a Developer: Become a Problem Solver!",
+                "time": "11min"
+            },
+            {
+                "name": "59. Using Google, StackOverflow and MDN",
+                "time": "27min"
+            },
+            {
+                "name": "60. Debugging (Fixing Errors)",
+                "time": "5min"
+            },
+            {
+                "name": "61. Debugging with the Console and Breakpoints",
+                "time": "19min"
+            },
+            {
+                "name": "62. Coding Challenge #1",
+                "time": "15min"
+            }
+        ]
+    },
+    {
+        "name": "Section 6: [OPTIONAL] HTML & CSS Crash Course",
+        "parts": []
+    },
+    {
+        "name": "Section 7: JavaScript in the Browser: DOM and Events Fundamentals",
+        "parts": [
+            {
+                "name": "68. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "69. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "70. PROJECT #1: Guess My Number!",
+                "time": "9min"
+            },
+            {
+                "name": "71. What's the DOM and DOM Manipulation",
+                "time": "7min"
+            },
+            {
+                "name": "72. Selecting and Manipulating Elements",
+                "time": "8min"
+            },
+            {
+                "name": "73. Handling Click Events",
+                "time": "13min"
+            },
+            {
+                "name": "74. Implementing the Game Logic",
+                "time": "20min"
+            },
+            {
+                "name": "75. Manipulating CSS Styles",
+                "time": "8min"
+            },
+            {
+                "name": "76. Coding Challenge #1",
+                "time": "12min"
+            },
+            {
+                "name": "77. Implementing Highscores",
+                "time": "8min"
+            },
+            {
+                "name": "78. Refactoring Our Code: The DRY Principle",
+                "time": "15min"
+            },
+            {
+                "name": "79. PROJECT #2: Modal Window",
+                "time": "13min"
+            },
+            {
+                "name": "80. Working With Classes",
+                "time": "17min"
+            },
+            {
+                "name": "81. Handling an \"Esc\" Keypress Event",
+                "time": "14min"
+            },
+            {
+                "name": "82. PROJECT #3: Pig Game",
+                "time": "17min"
+            },
+            {
+                "name": "83. Rolling the Dice",
+                "time": "16min"
+            },
+            {
+                "name": "84. Switching the Active Player",
+                "time": "15min"
+            },
+            {
+                "name": "85. Holding Current Score",
+                "time": "25min"
+            },
+            {
+                "name": "86. Resetting the Game",
+                "time": "16min"
+            }
+        ]
+    },
+    {
+        "name": "Section 8: How JavaScript Works Behind the Scenes",
+        "parts": [
+            // {
+            //     "name": "87. Section Intro",
+            //     "time": "2min"
+            // },
+            // {
+            //     "name": "88. Section Roadmap",
+            //     "time": "1min"
+            // },
+            // {
+            //     "name": "89. An High-Level Overview of JavaScript",
+            //     "time": "12min"
+            // },
+            // {
+            //     "name": "90. The JavaScript Engine and Runtime",
+            //     "time": "14min"
+            // },
+            // {
+            //     "name": "91. Execution Contexts and The Call Stack",
+            //     "time": "18min"
+            // },
+            {
+                "name": "92. Scope and The Scope Chain",
+                "time": "26min"
+            },
+            {
+                "name": "93. Scoping in Practice",
+                "time": "21min"
+            },
+            // {
+            //     "name": "94. Variable Environment: Hoisting and The TDZ",
+            //     "time": "11min"
+            // },
+            // {
+            //     "name": "95. Hoisting and TDZ in Practice",
+            //     "time": "15min"
+            // },
+            {
+                "name": "96. The this Keyword",
+                "time": "7min"
+            },
+            {
+                "name": "97. The this Keyword in Practice",
+                "time": "13min"
+            },
+            {
+                "name": "98. Regular Functions vs. Arrow Functions",
+                "time": "18min"
+            },
+            {
+                "name": "99. Primitives vs. Objects (Primitive vs. Reference Types)",
+                "time": "16min"
+            },
+            {
+                "name": "100. Primitives vs. Objects in Practice",
+                "time": "15min"
+            }
+        ]
+    },
+    {
+        "name": "Section 9: Data Structures, Modern Operators and Strings",
+        "parts": [
+            {
+                "name": "101. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "102. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "103. Destructuring Arrays",
+                "time": "20min"
+            },
+            {
+                "name": "104. Destructuring Objects",
+                "time": "20min"
+            },
+            {
+                "name": "105. The Spread Operator (...)",
+                "time": "21min"
+            },
+            {
+                "name": "106. Rest Pattern and Parameters",
+                "time": "19min"
+            },
+            {
+                "name": "107. Short Circuiting (&& and ||)",
+                "time": "16min"
+            },
+            {
+                "name": "108. The Nullish Coalescing Operator (??)",
+                "time": "4min"
+            },
+            {
+                "name": "109. Logical Assignment Operators",
+                "time": "12min"
+            },
+            {
+                "name": "110. Coding Challenge #1",
+                "time": "15min"
+            },
+            // {
+            //     "name": "111. Looping Arrays: The for-of Loop",
+            //     "time": "7min"
+            // },
+            {
+                "name": "112. Enhanced Object Literals",
+                "time": "7min"
+            },
+            // {
+            //     "name": "113. Optional Chaining (?.)",
+            //     "time": "16min"
+            // },
+            {
+                "name": "114. Looping Objects: Object Keys, Values, and Entries",
+                "time": "10min"
+            },
+            {
+                "name": "115. Coding Challenge #2",
+                "time": "15min"
+            },
+            {
+                "name": "116. Sets",
+                "time": "13min"
+            },
+            {
+                "name": "117. Maps: Fundamentals",
+                "time": "14min"
+            },
+            {
+                "name": "118. Maps: Iteration",
+                "time": "13min"
+            },
+            {
+                "name": "119. Summary: Which Data Structure to Use?",
+                "time": "10min"
+            },
+            {
+                "name": "120. Coding Challenge #3",
+                "time": "10min"
+            },
+            {
+                "name": "121. Working With Strings - Part 1",
+                "time": "17min"
+            },
+            {
+                "name": "122. Working With Strings - Part 2",
+                "time": "22min"
+            },
+            {
+                "name": "123. Working With Strings - Part 3",
+                "time": "22min"
+            },
+            {
+                "name": "124. Coding Challenge #4",
+                "time": "15min"
+            },
+            {
+                "name": "125. String Methods Practice",
+                "time": "17min"
+            }
+        ]
+    },
+    {
+        "name": "Section 10: A Closer Look at Functions",
+        "parts": [
+            {
+                "name": "126. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "127. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "128. Default Parameters",
+                "time": "9min"
+            },
+            {
+                "name": "129. How Passing Arguments Works: Value vs. Reference",
+                "time": "14min"
+            },
+            {
+                "name": "130. First-Class and Higher-Order Functions",
+                "time": "5min"
+            },
+            {
+                "name": "131. Functions Accepting Callback Functions",
+                "time": "15min"
+            },
+            // {
+            //     "name": "132. Functions Returning Functions",
+            //     "time": "7min"
+            // },
+            // {
+            //     "name": "133. The call and apply Methods",
+            //     "time": "17min"
+            // },
+            // {
+            //     "name": "134. The bind Method",
+            //     "time": "22min"
+            // },
+            {
+                "name": "135. Coding Challenge #1",
+                "time": "19min"
+            },
+            // {
+            //     "name": "136. Immediately Invoked Function Expressions (IIFE)",
+            //     "time": "8min"
+            // },
+            {
+                "name": "137. Closures",
+                "time": "20min"
+            },
+            {
+                "name": "138. More Closure Examples",
+                "time": "16min"
+            },
+            {
+                "name": "139. Coding Challenge #2",
+                "time": "5min"
+            }
+        ]
+    },
+    {
+        "name": "Section 11: Working With Arrays",
+        "parts": [
+            {
+                "name": "140. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "141. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "142. Simple Array Methods",
+                "time": "17min"
+            },
+            {
+                "name": "143. The new at Method",
+                "time": "6min"
+            },
+            {
+                "name": "144. Looping Arrays: forEach",
+                "time": "14min"
+            },
+            {
+                "name": "145. forEach With Maps and Sets",
+                "time": "6min"
+            },
+            {
+                "name": "146. PROJECT: \"Bankist\" App",
+                "time": "10min"
+            },
+            {
+                "name": "147. Creating DOM Elements",
+                "time": "19min"
+            },
+            {
+                "name": "148. Coding Challenge #1",
+                "time": "9min"
+            },
+            {
+                "name": "149. Data Transformations: map, filter, reduce",
+                "time": "5min"
+            },
+            {
+                "name": "150. The map Method",
+                "time": "16min"
+            },
+            {
+                "name": "151. Computing Usernames",
+                "time": "12min"
+            },
+            {
+                "name": "152. The filter Method",
+                "time": "6min"
+            },
+            {
+                "name": "153. The reduce Method",
+                "time": "21min"
+            },
+            {
+                "name": "154. Coding Challenge #2",
+                "time": "10min"
+            },
+            {
+                "name": "155. The Magic of Chaining Methods",
+                "time": "20min"
+            },
+            {
+                "name": "156. Coding Challenge #3",
+                "time": "4min"
+            },
+            {
+                "name": "157. The find Method",
+                "time": "7min"
+            },
+            {
+                "name": "158. Implementing Login",
+                "time": "24min"
+            },
+            {
+                "name": "159. Implementing Transfers",
+                "time": "21min"
+            },
+            {
+                "name": "160. The findIndex Method",
+                "time": "13min"
+            },
+            {
+                "name": "161. some and every",
+                "time": "15min"
+            },
+            {
+                "name": "162. flat and flatMap",
+                "time": "10min"
+            },
+            {
+                "name": "163. Sorting Arrays",
+                "time": "22min"
+            },
+            {
+                "name": "164. More Ways of Creating and Filling Arrays",
+                "time": "21min"
+            },
+            {
+                "name": "165. Summary: Which Array Method to Use?",
+                "time": "6min"
+            },
+            {
+                "name": "166. Array Methods Practice",
+                "time": "32min"
+            },
+            {
+                "name": "167. Coding Challenge #4",
+                "time": "24min"
+            }
+        ]
+    },
+    {
+        "name": "Section 12: Numbers, Dates, Intl and Timers",
+        "parts": [
+            {
+                "name": "168. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "169. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "170. Converting and Checking Numbers",
+                "time": "17min"
+            },
+            {
+                "name": "171. Math and Rounding",
+                "time": "18min"
+            },
+            {
+                "name": "172. The Remainder Operator",
+                "time": "11min"
+            },
+            {
+                "name": "173. Numeric Separators",
+                "time": "7min"
+            },
+            // {
+            //     "name": "174. Working with BigInt",
+            //     "time": "11min"
+            // },
+            {
+                "name": "175. Creating Dates",
+                "time": "13min"
+            },
+            {
+                "name": "176. Adding Dates to \"Bankist\" App",
+                "time": "22min"
+            },
+            {
+                "name": "177. Operations With Dates",
+                "time": "15min"
+            },
+            // {
+            //     "name": "178. Internationalizing Dates (Intl)",
+            //     "time": "17min"
+            // },
+            // {
+            //     "name": "179. Internationalizing Numbers (Intl)",
+            //     "time": "19min"
+            // },
+            {
+                "name": "180. Timers: setTimeout and setInterval",
+                "time": "14min"
+            },
+            {
+                "name": "181. Implementing a Countdown Timer",
+                "time": "29min"
+            }
+        ]
+    },
+    {
+        "name": "Section 13: Advanced DOM and Events",
+        "parts": [
+            {
+                "name": "182. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "183. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "184. PROJECT: \"Bankist\" Website",
+                "time": "9min"
+            },
+            {
+                "name": "185. How the DOM Really Works",
+                "time": "11min"
+            },
+            {
+                "name": "186. Selecting, Creating, and Deleting Elements",
+                "time": "20min"
+            },
+            {
+                "name": "187. Styles, Attributes and Classes",
+                "time": "22min"
+            },
+            // {
+            //     "name": "188. Implementing Smooth Scrolling",
+            //     "time": "16min"
+            // },
+            {
+                "name": "189. Types of Events and Event Handlers",
+                "time": "11min"
+            },
+            {
+                "name": "190. Event Propagation: Bubbling and Capturing",
+                "time": "5min"
+            },
+            {
+                "name": "191. Event Propagation in Practice",
+                "time": "18min"
+            },
+            {
+                "name": "192. Event Delegation: Implementing Page Navigation",
+                "time": "19min"
+            },
+            {
+                "name": "193. DOM Traversing",
+                "time": "15min"
+            },
+            {
+                "name": "194. Building a Tabbed Component",
+                "time": "24min"
+            },
+            {
+                "name": "195. Passing Arguments to Event Handlers",
+                "time": "19min"
+            },
+            {
+                "name": "196. Implementing a Sticky Navigation: The Scroll Event",
+                "time": "8min"
+            },
+            {
+                "name": "197. A Better Way: The Intersection Observer API",
+                "time": "24min"
+            },
+            {
+                "name": "198. Revealing Elements on Scroll",
+                "time": "13min"
+            },
+            // {
+            //     "name": "199. Lazy Loading Images",
+            //     "time": "19min"
+            // },
+            {
+                "name": "200. Building a Slider Component: Part 1",
+                "time": "23min"
+            },
+            {
+                "name": "201. Building a Slider Component: Part 2",
+                "time": "20min"
+            },
+            {
+                "name": "202. Lifecycle DOM Events",
+                "time": "9min"
+            },
+            // {
+            //     "name": "203. Efficient Script Loading: defer and async",
+            //     "time": "14min"
+            // }
+        ]
+    },
+    // {
+    //     "name": "Section 14: Object-Oriented Programming (OOP) With JavaScript",
+    //     "parts": [
+    //         {
+    //             "name": "204. Section Intro",
+    //             "time": "1min"
+    //         },
+    //         {
+    //             "name": "205. Section Roadmap",
+    //             "time": "1min"
+    //         },
+    //         {
+    //             "name": "206. What is Object-Oriented Programming?",
+    //             "time": "21min"
+    //         },
+    //         {
+    //             "name": "207. OOP in JavaScript",
+    //             "time": "10min"
+    //         },
+    //         {
+    //             "name": "208. Constructor Functions and the new Operator",
+    //             "time": "14min"
+    //         },
+    //         {
+    //             "name": "209. Prototypes",
+    //             "time": "15min"
+    //         },
+    //         {
+    //             "name": "210. Prototypal Inheritance and The Prototype Chain",
+    //             "time": "11min"
+    //         },
+    //         {
+    //             "name": "211. Prototypal Inheritance on Built-In Objects",
+    //             "time": "15min"
+    //         },
+    //         {
+    //             "name": "212. Coding Challenge #1",
+    //             "time": "7min"
+    //         },
+    //         {
+    //             "name": "213. ES6 Classes",
+    //             "time": "13min"
+    //         },
+    //         {
+    //             "name": "214. Setters and Getters",
+    //             "time": "13min"
+    //         },
+    //         {
+    //             "name": "215. Static Methods",
+    //             "time": "6min"
+    //         },
+    //         {
+    //             "name": "216. Object.create",
+    //             "time": "11min"
+    //         },
+    //         {
+    //             "name": "217. Coding Challenge #2",
+    //             "time": "6min"
+    //         },
+    //         {
+    //             "name": "218. Inheritance Between \"Classes\": Constructor Functions",
+    //             "time": "21min"
+    //         },
+    //         {
+    //             "name": "219. Coding Challenge #3",
+    //             "time": "11min"
+    //         },
+    //         {
+    //             "name": "220. Inheritance Between \"Classes\": ES6 Classes",
+    //             "time": "11min"
+    //         },
+    //         {
+    //             "name": "221. Inheritance Between \"Classes\": Object.create",
+    //             "time": "9min"
+    //         },
+    //         {
+    //             "name": "222. Another Class Example",
+    //             "time": "11min"
+    //         },
+    //         {
+    //             "name": "223. Encapsulation: Protected Properties and Methods",
+    //             "time": "7min"
+    //         },
+    //         {
+    //             "name": "224. Encapsulation: Private Class Fields and Methods",
+    //             "time": "16min"
+    //         },
+    //         {
+    //             "name": "225. Chaining Methods",
+    //             "time": "5min"
+    //         },
+    //         {
+    //             "name": "226. ES6 Classes Summary",
+    //             "time": "7min"
+    //         },
+    //         {
+    //             "name": "227. Coding Challenge #4",
+    //             "time": "9min"
+    //         }
+    //     ]
+    // },
+    {
+        "name": "Section 15: Mapty App: OOP, Geolocation, External Libraries, and More!",
+        "parts": [
+            {
+                "name": "228. Section Intro",
+                "time": "1min"
+            },
+            {
+                "name": "229. Section Roadmap",
+                "time": "1min"
+            },
+            {
+                "name": "230. Project Overview",
+                "time": "5min"
+            },
+            {
+                "name": "231. How to Plan a Web Project",
+                "time": "18min"
+            },
+            {
+                "name": "232. Using the Geolocation API",
+                "time": "8min"
+            },
+            {
+                "name": "233. Displaying a Map Using Leaflet Library",
+                "time": "14min"
+            },
+            {
+                "name": "234. Displaying a Map Marker",
+                "time": "20min"
+            },
+            {
+                "name": "235. Rendering Workout Input Form",
+                "time": "17min"
+            },
+            {
+                "name": "236. Project Architecture",
+                "time": "9min"
+            },
+            {
+                "name": "237. Refactoring for Project Architecture",
+                "time": "24min"
+            },
+            {
+                "name": "238. Managing Workout Data: Creating Classes",
+                "time": "16min"
+            },
+            {
+                "name": "239. Creating a New Workout",
+                "time": "34min"
+            },
+            {
+                "name": "240. Rendering Workouts",
+                "time": "24min"
+            },
+            {
+                "name": "241. Move to Marker On Click",
+                "time": "17min"
+            },
+            {
+                "name": "242. Working with localStorage",
+                "time": "26min"
+            },
+            {
+                "name": "243. Final Considerations",
+                "time": "6min"
+            }
+        ]
+    },
+    {
+        "name": "Section 16: Asynchronous JavaScript: Promises, Async/Await, and AJAX",
+        "parts": []
+    },
+    {
+        "name": "Section 17: Modern JavaScript Development: Modules, Tooling, and Functional",
+        "parts": []
+    },
+    {
+        "name": "Section 18: Forkify App: Building a Modern Application",
+        "parts": []
+    },
+    {
+        "name": "Section 19: Setting Up Git and Deployment",
+        "parts": []
+    },
+    {
+        "name": "Section 20: The End!",
+        "parts": []
+    },
+    {
+        "name": "Section 21: [LEGACY] Access the Old Course",
+        "parts": []
+    }
+]
